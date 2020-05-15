@@ -1,2 +1,2 @@
-# algorithims
+# algorithms
 Just typical algorithms
